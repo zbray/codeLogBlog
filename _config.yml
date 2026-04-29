@@ -6,7 +6,7 @@ description: "Code Log Blog"
 # theme: jekyll-theme-minimal
 # remote_theme: abhinavs/moonwalk
 moonwalk:
-  theme: dark
+  # theme: dark
   show_theme_toggle: true
   timezone: America/New_York
 
