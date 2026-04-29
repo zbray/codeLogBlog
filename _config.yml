@@ -3,10 +3,10 @@ title: "Code Log Blog"
 description: "Code Log Blog"
 
 # Build Settings
-# theme: jekyll-theme-minimal
-# remote_theme: abhinavs/moonwalk
+theme: jekyll-theme-minimal
+remote_theme: abhinavs/moonwalk
 moonwalk:
-  # theme: dark
+  theme: dark
   show_theme_toggle: true
   timezone: America/New_York
 
